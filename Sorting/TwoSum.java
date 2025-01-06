@@ -1,5 +1,6 @@
-//Given an array sorted in non-decreasing order and a target number, 
+//Given an array of numbers and a target number, 
 //find the indices of the two values from the array that sum up to the given target number.
+
 import java.util.ArrayList;
 
 public class TwoSum {
